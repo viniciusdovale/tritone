@@ -1,0 +1,23 @@
+{
+  "name": "netflix-api",
+  "authors": [
+    "Vinícius do Vale <viniciusdovale10@gmail.com>"
+  ],
+  "description": "Test Netflix api",
+  "main": "app/js/main.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.1",
+    "bootstrap": "^3.3.6"
+  }
+}
